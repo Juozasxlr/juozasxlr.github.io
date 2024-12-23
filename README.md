@@ -1,4 +1,6 @@
-[Projects](/projects/projects.md)
+| [Projects](./projects/projects.md)
+| [About](./about/about.md)
+| [GitHub features](./github_features/github_features.md)
 
 # 🌟 QA Engineer Portfolio
 
