@@ -1,3 +1,5 @@
+[Projects](/projects/projects.md)
+
 # 🌟 QA Engineer Portfolio
 
 Welcome to my portfolio! I'm **[Your Name]**, a QA Engineer passionate about delivering top-notch software quality.
